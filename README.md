@@ -15,6 +15,9 @@ concierto nuevo (Fase 1 del plan de la app).
    municipio real queda en `municipio`).
 5. Avisa por Telegram y guarda `eventos.json`. Si una fuente falla o devuelve 0
    eventos, avisa "dejó de responder" una sola vez y otra cuando vuelve.
+6. Cada día, en la primera revisión desde las 8 a. m. (hora de Colombia), manda
+   "El rastreador sigue activo" con un resumen. Si un día no llega, el bot se cayó.
+   La hora se cambia con `HEARTBEAT_HOUR`; `--latido` lo manda de inmediato.
 
 ## Formato de cada evento
 

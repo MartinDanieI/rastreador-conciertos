@@ -22,7 +22,7 @@ import logging
 import os
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html import escape
 from pathlib import Path
 
@@ -36,6 +36,7 @@ from normalizar import normalizar
 
 ROOT = Path(__file__).resolve().parent
 PAUSA_DETALLE = 1.0  # segundos entre páginas de detalle, para no cargar la boletera
+COLOMBIA = timezone(timedelta(hours=-5), "COT")  # Colombia no tiene horario de verano
 DETALLE = ("fecha", "hora", "artista", "artista_norm", "precio_desde", "preventa", "preventas", "detectado")
 
 log = logging.getLogger("rastreador")
@@ -65,10 +66,11 @@ def cargar(archivo: Path) -> dict | None:
     return json.loads(archivo.read_text(encoding="utf-8"))
 
 
-def guardar(archivo: Path, conocidos: dict[str, dict], fallas: dict[str, str]) -> None:
-    # Sin marcas de "última revisión": el archivo solo cambia cuando hay algo nuevo,
-    # así GitHub Actions solo hace commit cuando de verdad pasó algo.
+def guardar(archivo: Path, conocidos: dict[str, dict], fallas: dict[str, str], latido: str | None) -> None:
+    # Sin marcas de "última revisión": el archivo solo cambia cuando hay algo nuevo
+    # (o una vez al día por el latido), así GitHub Actions no hace commits vacíos.
     archivo.write_text(json.dumps({
+        "latido": latido,
         "fallas": fallas,
         "eventos": dict(sorted(conocidos.items())),
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -100,11 +102,30 @@ def formato_telegram(e: dict) -> str:
     return "\n".join(lineas)
 
 
+HORA_LATIDO = int(os.getenv("HEARTBEAT_HOUR", "8"))  # hora de Colombia del mensaje diario
+
+
+def mensaje_latido(conocidos: dict[str, dict], actuales: list[dict], nuevos: list[dict],
+                   fallas: dict[str, str]) -> str:
+    """'Sigo activo' con el resumen de las últimas 24 horas."""
+    hace_24h = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat(timespec="seconds")
+    ids_nuevos = {evento_id(e) for e in nuevos}
+    recientes = sum(1 for eid, e in conocidos.items()
+                    if eid not in ids_nuevos and (e.get("detectado") or "") >= hace_24h) + len(nuevos)
+    estado = ("⚠️ Fuentes caídas: " + ", ".join(escape(f) for f in fallas)) if fallas \
+        else f"✅ Fuentes funcionando: {', '.join(escape(f) for f in FUENTES)}"
+    return (f"🤖 <b>El rastreador sigue activo</b>\n"
+            f"📋 {len(actuales)} conciertos en las boleteras\n"
+            f"🆕 {recientes} nuevo(s) en las últimas 24 horas\n"
+            f"{estado}")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Rastreador de conciertos en Colombia")
     parser.add_argument("--dry-run", action="store_true", help="no avisa ni guarda eventos.json")
     parser.add_argument("--todos", action="store_true", help="lista también todos los eventos actuales")
     parser.add_argument("--sin-detalle", action="store_true", help="no abre el detalle de los eventos nuevos")
+    parser.add_argument("--latido", action="store_true", help="manda el mensaje diario de 'sigo activo' ya")
     parser.add_argument("--test-telegram", action="store_true", help="manda un mensaje de prueba y sale")
     parser.add_argument("--telegram-chat-id", action="store_true", help="muestra tu TELEGRAM_CHAT_ID")
     args = parser.parse_args()
@@ -184,6 +205,14 @@ def main() -> int:
         if nombre in FUENTES:
             bloques.append(f"✅ La fuente <b>{escape(nombre)}</b> volvió a funcionar.")
 
+    # Latido diario ("sigo activo") en la primera revisión desde las 8 a. m. de Colombia.
+    # Si un día no llega, el bot se cayó.
+    hoy_co = datetime.now(COLOMBIA)
+    latido = (previo or {}).get("latido")
+    if args.latido or (hoy_co.hour >= HORA_LATIDO and latido != hoy_co.date().isoformat()):
+        latido = hoy_co.date().isoformat()
+        bloques.append(mensaje_latido(conocidos, actuales, nuevos if not primera_vez else [], fallas))
+
     # 4. Mostrar en consola
     if args.todos:
         for e in sorted(actuales, key=lambda e: e.get("fecha") or "9999"):
@@ -223,7 +252,7 @@ def main() -> int:
             conocidos[eid] = {**e, **{k: v for k, v in conocidos[eid].items() if k in DETALLE and v}}
         else:
             conocidos[eid] = {**e, "detectado": ahora}
-    guardar(archivo, conocidos, fallas)
+    guardar(archivo, conocidos, fallas, latido)
     return 1 if fallas else 0
 
 

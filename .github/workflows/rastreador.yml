@@ -27,6 +27,8 @@ jobs:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
+      # Hora (Colombia) del mensaje diario "sigo activo". Se cambia en Settings > Variables.
+      HEARTBEAT_HOUR: ${{ vars.HEARTBEAT_HOUR || '8' }}
       TZ: America/Bogota
 
     steps:
