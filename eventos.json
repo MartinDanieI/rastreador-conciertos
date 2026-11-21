@@ -14,7 +14,8 @@
       "preventa": null,
       "artista_norm": "01 gran concierto de apertura",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/02-belcea-quartet": {
       "fuente": "tuboleta",
@@ -28,7 +29,8 @@
       "preventa": null,
       "artista_norm": "02 belcea quartet",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/03-bogota-piano-trio": {
       "fuente": "tuboleta",
@@ -42,7 +44,8 @@
       "preventa": null,
       "artista_norm": "03 bogota piano trio",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/04-christoph-pregardien-gottlieb-wallisch": {
       "fuente": "tuboleta",
@@ -56,7 +59,8 @@
       "preventa": null,
       "artista_norm": "04 christoph pregardien y gottlieb wallisch",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/05-leonidas-caceres-y-raul-mesa": {
       "fuente": "tuboleta",
@@ -70,7 +74,8 @@
       "preventa": null,
       "artista_norm": "05 leonidas caceres y raul mesa",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/06-orquesta-filarmonica-de-luxemburgo": {
       "fuente": "tuboleta",
@@ -84,7 +89,8 @@
       "preventa": null,
       "artista_norm": "06 orquesta filarmonica de luxemburgo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/07-gottlieb-wallisch": {
       "fuente": "tuboleta",
@@ -98,7 +104,8 @@
       "preventa": null,
       "artista_norm": "07 gottlieb wallisch",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/08-belcea-quartet": {
       "fuente": "tuboleta",
@@ -112,7 +119,8 @@
       "preventa": null,
       "artista_norm": "08 belcea quartet",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/09-leonidas-kavakos-enrico-pace": {
       "fuente": "tuboleta",
@@ -126,7 +134,8 @@
       "preventa": null,
       "artista_norm": "09 leonidas kavakos y enrico pace",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/10-manuel-arango-perez": {
       "fuente": "tuboleta",
@@ -140,7 +149,8 @@
       "preventa": null,
       "artista_norm": "10 manuel arango perez",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/11-orquesta-filarmonica-de-luxemburgo": {
       "fuente": "tuboleta",
@@ -154,7 +164,8 @@
       "preventa": null,
       "artista_norm": "11 orquesta filarmonica de luxemburgo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/13-andreas-staier-clavecin": {
       "fuente": "tuboleta",
@@ -168,7 +179,8 @@
       "preventa": null,
       "artista_norm": "13 andreas staier clavecin",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/14-belcea-quartet": {
       "fuente": "tuboleta",
@@ -182,7 +194,8 @@
       "preventa": null,
       "artista_norm": "14 belcea quartet",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/16-orquesta-sinfonica-nacional-de-colombia": {
       "fuente": "tuboleta",
@@ -196,7 +209,8 @@
       "preventa": null,
       "artista_norm": "16 orquesta sinfonica nacional de colombia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/17-mateo-navia-arango": {
       "fuente": "tuboleta",
@@ -210,7 +224,8 @@
       "preventa": null,
       "artista_norm": "17 mateo navia arango",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/18-orquesta-filarmonica-de-luxemburgo": {
       "fuente": "tuboleta",
@@ -224,7 +239,8 @@
       "preventa": null,
       "artista_norm": "18 orquesta filarmonica de luxemburgo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/adriana-lucia-1": {
       "fuente": "tuboleta",
@@ -238,7 +254,8 @@
       "preventa": null,
       "artista_norm": "adriana lucia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/agrupaciones-filarmonicas-4": {
       "fuente": "tuboleta",
@@ -252,7 +269,8 @@
       "preventa": null,
       "artista_norm": "banda filarmonica juvenil",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/alcolirykoz-el-remate-2026-bogota": {
       "fuente": "tuboleta",
@@ -266,7 +284,8 @@
       "preventa": null,
       "artista_norm": "alcolirykoz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/alcolirykoz-el-remate-2026-medellin": {
       "fuente": "tuboleta",
@@ -280,7 +299,8 @@
       "preventa": null,
       "artista_norm": "alcolirykoz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/andres-cepeda-latitudes-gira-2027": {
       "fuente": "tuboleta",
@@ -294,7 +314,8 @@
       "preventa": null,
       "artista_norm": "andres cepeda",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/andres-cepeda-latitudes-gira-2027-0": {
       "fuente": "tuboleta",
@@ -308,7 +329,8 @@
       "preventa": null,
       "artista_norm": "andres cepeda",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/andres-cepeda-latitudes-gira-2027-junto-big-band": {
       "fuente": "tuboleta",
@@ -322,7 +344,8 @@
       "preventa": null,
       "artista_norm": "andres cepeda",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/andres-cepeda-pasto": {
       "fuente": "tuboleta",
@@ -336,7 +359,8 @@
       "preventa": null,
       "artista_norm": "andres cepeda pasto",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/andres-jimenez-colombia-eufonio-1": {
       "fuente": "tuboleta",
@@ -350,7 +374,8 @@
       "preventa": null,
       "artista_norm": "andres jimenez colombia eufonio",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/andresito-paz": {
       "fuente": "tuboleta",
@@ -364,7 +389,8 @@
       "preventa": null,
       "artista_norm": "andresito paz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/anime-y-ghibli-sinfonico": {
       "fuente": "tuboleta",
@@ -378,7 +404,8 @@
       "preventa": null,
       "artista_norm": "anime y ghibli sinfonico",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/anne-sophie-mutter-y-los-mutter-virtuosi": {
       "fuente": "tuboleta",
@@ -392,7 +419,8 @@
       "preventa": null,
       "artista_norm": "anne sophie mutter y los mutter virtuosi",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/anuel-aa-real-hasta-la-muerte-medellin": {
       "fuente": "tuboleta",
@@ -406,7 +434,8 @@
       "preventa": null,
       "artista_norm": "anuel aa",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/aristo-sham-hong-kong-piano": {
       "fuente": "tuboleta",
@@ -420,7 +449,8 @@
       "preventa": null,
       "artista_norm": "aristo sham hong kong piano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ave-de-plata-sara-jimenez-teatro-bailado": {
       "fuente": "tuboleta",
@@ -434,7 +464,8 @@
       "preventa": null,
       "artista_norm": "ave de plata sara jimenez teatro bailado",
       "municipio": "Chía",
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/bach-mozart-no-5-orquesta-de-camara-de-mujeres": {
       "fuente": "tuboleta",
@@ -448,7 +479,8 @@
       "preventa": null,
       "artista_norm": "bach a mozart no 5 orquesta de camara de mujeres",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ballet-cascanueces-1": {
       "fuente": "tuboleta",
@@ -462,7 +494,8 @@
       "preventa": null,
       "artista_norm": "ballet cascanueces",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/batimento-y-juan-chilindron-uruguay-tango": {
       "fuente": "tuboleta",
@@ -476,7 +509,8 @@
       "preventa": null,
       "artista_norm": "batimento y juan chilindron uruguay tango",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/beele-borondo-tour-2026-medellin": {
       "fuente": "tuboleta",
@@ -501,7 +535,8 @@
           "inicio": "2026-09-01T14:00"
         }
       ],
-      "detectado": "2026-11-21T03:42:57+00:00"
+      "detectado": "2026-11-21T03:42:57+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/beele-borondo-tour-2027-bucaramanga": {
       "fuente": "tuboleta",
@@ -515,7 +550,8 @@
       "preventa": null,
       "artista_norm": "beele",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/beth-gibbons-lives-outgrown-colombia-2027": {
       "fuente": "tuboleta",
@@ -529,7 +565,8 @@
       "preventa": null,
       "artista_norm": "beth gibbons",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/brian-isaacs-y-yannick-rafalimanana": {
       "fuente": "tuboleta",
@@ -543,7 +580,8 @@
       "preventa": null,
       "artista_norm": "brian isaacs y yannick rafalimanana",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/broklyn-rider-estados-unidos-cuarteto-de-cuerdas": {
       "fuente": "tuboleta",
@@ -557,7 +595,8 @@
       "preventa": null,
       "artista_norm": "broklyn rider estados unidos cuarteto de cuerdas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/cafe-zimmerman-francia-ensamble-de-musica-antigua": {
       "fuente": "tuboleta",
@@ -571,7 +610,8 @@
       "preventa": null,
       "artista_norm": "cafe zimmerman francia ensamble de musica antigua",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/camane-portugal-festival-de-fado-2026": {
       "fuente": "tuboleta",
@@ -585,7 +625,8 @@
       "preventa": null,
       "artista_norm": "camane portugal festival de fado 2026",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/camila-adios-world-tour": {
       "fuente": "tuboleta",
@@ -605,7 +646,8 @@
           "inicio": "2026-09-08T10:00"
         }
       ],
-      "detectado": "2026-11-21T03:26:55+00:00"
+      "detectado": "2026-11-21T03:26:55+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/camilo-sanchez-colombia-corno": {
       "fuente": "tuboleta",
@@ -619,7 +661,8 @@
       "preventa": null,
       "artista_norm": "camilo sanchez colombia corno",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/camilo-tour-2026": {
       "fuente": "tuboleta",
@@ -633,7 +676,8 @@
       "preventa": null,
       "artista_norm": "camilo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/camilo-tour-2026-barranquilla": {
       "fuente": "tuboleta",
@@ -653,7 +697,8 @@
           "inicio": "2026-09-15T10:00"
         }
       ],
-      "detectado": "2026-11-21T03:26:55+00:00"
+      "detectado": "2026-11-21T03:26:55+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/camilo-tour-2026-segunda-fecha": {
       "fuente": "tuboleta",
@@ -667,7 +712,8 @@
       "preventa": null,
       "artista_norm": "camilo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/carlos-rivera-medellin": {
       "fuente": "tuboleta",
@@ -681,7 +727,8 @@
       "preventa": null,
       "artista_norm": "carlos rivera medellin",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/carlos-rivera-vida-mexico-tour-2026": {
       "fuente": "tuboleta",
@@ -695,7 +742,8 @@
       "preventa": null,
       "artista_norm": "carlos rivera",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/carlos-vives-la-provincia-tour-al-sol-medellin": {
       "fuente": "tuboleta",
@@ -709,7 +757,8 @@
       "preventa": null,
       "artista_norm": "carlos vives y la provincia tour al sol",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/catalyst-quartet-estados-unidos-cuarteto-de-cuerdas": {
       "fuente": "tuboleta",
@@ -723,7 +772,8 @@
       "preventa": null,
       "artista_norm": "catalyst quartet estados unidos cuarteto de cuerdas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/cavalleria-rusticana-version-de-concierto": {
       "fuente": "tuboleta",
@@ -737,7 +787,8 @@
       "preventa": null,
       "artista_norm": "cavalleria rusticana version de concierto",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/celebre-la-navidad-con-la-big-band-san-fernando-de-ny": {
       "fuente": "tuboleta",
@@ -751,7 +802,8 @@
       "preventa": null,
       "artista_norm": "celebre la navidad con la big band san fernando de ny",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/celine-frisch-francia-clavecin": {
       "fuente": "tuboleta",
@@ -765,7 +817,8 @@
       "preventa": null,
       "artista_norm": "celine frisch francia clavecin",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/chungo": {
       "fuente": "tuboleta",
@@ -779,7 +832,8 @@
       "preventa": null,
       "artista_norm": "chungo de luis zahera",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/clasicos-navidenos-1": {
       "fuente": "tuboleta",
@@ -793,7 +847,8 @@
       "preventa": null,
       "artista_norm": "clasicos navidenos",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/colectivo-el-tiempo-no-sera-mas-colombia": {
       "fuente": "tuboleta",
@@ -807,7 +862,8 @@
       "preventa": null,
       "artista_norm": "colectivo el tiempo no sera mas colombia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/columnas-invisibles-0": {
       "fuente": "tuboleta",
@@ -821,7 +877,8 @@
       "preventa": null,
       "artista_norm": "columnas invisibles",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/compania-senor-m-obra-fragil": {
       "fuente": "tuboleta",
@@ -835,7 +892,8 @@
       "preventa": null,
       "artista_norm": "compania senor m obra fragil",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-camino-belen-ensamble-resonancia": {
       "fuente": "tuboleta",
@@ -849,7 +907,8 @@
       "preventa": null,
       "artista_norm": "concierto camino a belen ensamble resonancia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-cuento-en-ocho-cuerdas": {
       "fuente": "tuboleta",
@@ -863,7 +922,8 @@
       "preventa": null,
       "artista_norm": "concierto cuento en ocho cuerdas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-de-cierre-salsa-music-week": {
       "fuente": "tuboleta",
@@ -877,7 +937,8 @@
       "preventa": null,
       "artista_norm": "super concierto feria de cali 69",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-de-temporada-la-plancha-26-dic": {
       "fuente": "tuboleta",
@@ -891,7 +952,8 @@
       "preventa": null,
       "artista_norm": "concierto de temporada a la plancha 26 dic",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-de-temporada-la-plancha-27-dic": {
       "fuente": "tuboleta",
@@ -905,7 +967,8 @@
       "preventa": null,
       "artista_norm": "concierto de temporada a la plancha 27 dic",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-inaugural-fuego-y-geometria-0": {
       "fuente": "tuboleta",
@@ -919,7 +982,8 @@
       "preventa": null,
       "artista_norm": "concierto inaugural",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-orquesta-filarmonica-juvenil-de-camara-2": {
       "fuente": "tuboleta",
@@ -933,7 +997,8 @@
       "preventa": null,
       "artista_norm": "concierto orquesta filarmonica juvenil de camara",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-recital-ana-mercedes-vivas-mujeres-con-corazon-de-pajaro-conmemoracion-25-n": {
       "fuente": "tuboleta",
@@ -947,7 +1012,8 @@
       "preventa": null,
       "artista_norm": "concierto recital ana mercedes vivas mujeres con corazon de pajaro conmemoracion 25 n",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-sinfonico-coral-navidad-2026": {
       "fuente": "tuboleta",
@@ -961,7 +1027,8 @@
       "preventa": null,
       "artista_norm": "concierto sinfonico coral navidad 2026",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/cristian-mateo-ramirez-colombia-piano": {
       "fuente": "tuboleta",
@@ -975,7 +1042,8 @@
       "preventa": null,
       "artista_norm": "cristian mateo ramirez colombia piano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/cuarteto-caucali-colombia-agrupacion-de-musica-colombiana": {
       "fuente": "tuboleta",
@@ -989,7 +1057,8 @@
       "preventa": null,
       "artista_norm": "cuarteto caucali colombia agrupacion de musica colombiana",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/cuarteto-eybler-canada-cuarteto-de-cuerdas": {
       "fuente": "tuboleta",
@@ -1003,7 +1072,8 @@
       "preventa": null,
       "artista_norm": "cuarteto eybler canada cuarteto de cuerdas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/cumpleanos-del-rey-del-chupe": {
       "fuente": "tuboleta",
@@ -1017,7 +1087,8 @@
       "preventa": null,
       "artista_norm": "cumpleanos del rey del chupe",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/daniel-nieto-colombia-bandola": {
       "fuente": "tuboleta",
@@ -1031,7 +1102,8 @@
       "preventa": null,
       "artista_norm": "daniel nieto colombia bandola",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/de-la-rose-latam-tour": {
       "fuente": "tuboleta",
@@ -1045,7 +1117,8 @@
       "preventa": null,
       "artista_norm": "de la rose",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/del-perfecto-equilibrio-al-equilibrio-imperfecto-0": {
       "fuente": "tuboleta",
@@ -1059,7 +1132,8 @@
       "preventa": null,
       "artista_norm": "del perfecto equilibrio al equilibrio imperfecto",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/despecho-2-voces": {
       "fuente": "tuboleta",
@@ -1073,7 +1147,8 @@
       "preventa": null,
       "artista_norm": "despecho a 2 voces",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/despecho-2-voces-jessi-uribe-paola-jara-segunda-fecha": {
       "fuente": "tuboleta",
@@ -1087,7 +1162,8 @@
       "preventa": null,
       "artista_norm": "despecho a 2 voces",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/dialogos-invisibles-0": {
       "fuente": "tuboleta",
@@ -1101,7 +1177,8 @@
       "preventa": null,
       "artista_norm": "dialogos invisibles",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/dimash-qudaibergen-dimensions": {
       "fuente": "tuboleta",
@@ -1121,7 +1198,8 @@
           "inicio": "2026-07-22T10:00"
         }
       ],
-      "detectado": "2026-11-21T03:26:55+00:00"
+      "detectado": "2026-11-21T03:26:55+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/dispositivo-jazz-colombia-colombia-jazz": {
       "fuente": "tuboleta",
@@ -1135,7 +1213,8 @@
       "preventa": null,
       "artista_norm": "dispositivo jazz colombia colombia jazz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/dortene-colombia-jazz": {
       "fuente": "tuboleta",
@@ -1149,7 +1228,8 @@
       "preventa": null,
       "artista_norm": "dortene colombia jazz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/dueto-encantados-colombia-dueto-vocal": {
       "fuente": "tuboleta",
@@ -1163,7 +1243,8 @@
       "preventa": null,
       "artista_norm": "dueto encantados colombia dueto vocal",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-cartel-del-chupe-y-del-guaro-navideno-2026": {
       "fuente": "tuboleta",
@@ -1177,7 +1258,8 @@
       "preventa": null,
       "artista_norm": "el cartel del chupe y del guaro navideno 2026",
       "municipio": "Soacha",
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-club-de-los-feroces": {
       "fuente": "tuboleta",
@@ -1191,7 +1273,8 @@
       "preventa": null,
       "artista_norm": "el club de los feroces",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-dolor-que-nos-une-0": {
       "fuente": "tuboleta",
@@ -1205,7 +1288,8 @@
       "preventa": null,
       "artista_norm": "el dolor que nos une",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-gato-con-botas-poc-espana": {
       "fuente": "tuboleta",
@@ -1219,7 +1303,8 @@
       "preventa": null,
       "artista_norm": "el gato con botas per poc espana",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-gran-encuentro-0": {
       "fuente": "tuboleta",
@@ -1233,7 +1318,8 @@
       "preventa": null,
       "artista_norm": "el gran encuentro",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-kanka-gira-la-calma": {
       "fuente": "tuboleta",
@@ -1247,7 +1333,8 @@
       "preventa": null,
       "artista_norm": "el kanka",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-legado-continua-pastor-lopez-jr": {
       "fuente": "tuboleta",
@@ -1261,7 +1348,8 @@
       "preventa": null,
       "artista_norm": "el legado continua pastor lopez jr",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-mono-zabaleta-20-anos-de-historia-musical-0": {
       "fuente": "tuboleta",
@@ -1275,7 +1363,8 @@
       "preventa": null,
       "artista_norm": "el mono zabaleta 20 anos de historia musical",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-orden-del-cosmos-0": {
       "fuente": "tuboleta",
@@ -1289,7 +1378,8 @@
       "preventa": null,
       "artista_norm": "el orden del cosmos",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-orden-del-instinto-0": {
       "fuente": "tuboleta",
@@ -1303,7 +1393,8 @@
       "preventa": null,
       "artista_norm": "el orden del instinto",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-show-de-alejo-igoa": {
       "fuente": "tuboleta",
@@ -1317,7 +1408,8 @@
       "preventa": null,
       "artista_norm": "el show de alejo igoa",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-sur-y-el-norte-de-la-flauta-experiencia-davivienda": {
       "fuente": "tuboleta",
@@ -1331,7 +1423,8 @@
       "preventa": null,
       "artista_norm": "el sur y el norte de la flauta experiencia davivienda",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-universo-de-bruckner": {
       "fuente": "tuboleta",
@@ -1345,7 +1438,8 @@
       "preventa": null,
       "artista_norm": "el universo de bruckner",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/el-vuelo-voces": {
       "fuente": "tuboleta",
@@ -1359,7 +1453,8 @@
       "preventa": null,
       "artista_norm": "el vuelo a voces",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/eliana-infante-colombia-cantante": {
       "fuente": "tuboleta",
@@ -1373,7 +1468,8 @@
       "preventa": null,
       "artista_norm": "eliana infante colombia cantante",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/en-memoria-mayra-esquenazi-0": {
       "fuente": "tuboleta",
@@ -1387,7 +1483,8 @@
       "preventa": null,
       "artista_norm": "en memoria a mayra esquenazi",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ensamble-alborada-colombia-musica-tradicional": {
       "fuente": "tuboleta",
@@ -1401,7 +1498,8 @@
       "preventa": null,
       "artista_norm": "ensamble alborada colombia musica tradicional",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ensamble-iride-colombia-trio-de-flautas": {
       "fuente": "tuboleta",
@@ -1415,7 +1513,8 @@
       "preventa": null,
       "artista_norm": "ensamble iride colombia trio de flautas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ensamble-onix-mexico-musica-contemporanea": {
       "fuente": "tuboleta",
@@ -1429,7 +1528,8 @@
       "preventa": null,
       "artista_norm": "ensamble onix mexico musica contemporanea",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/eros-ramazzotti-una-historia-importante-world-tour": {
       "fuente": "tuboleta",
@@ -1443,7 +1543,8 @@
       "preventa": null,
       "artista_norm": "eros ramazzotti",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/espana-en-la-balanza-0": {
       "fuente": "tuboleta",
@@ -1457,7 +1558,8 @@
       "preventa": null,
       "artista_norm": "espana en la balanza",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/fantasia-y-proporcion-0": {
       "fuente": "tuboleta",
@@ -1471,7 +1573,8 @@
       "preventa": null,
       "artista_norm": "fantasia y proporcion",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/fidelio-opera-de-ludwig-van-beethoven": {
       "fuente": "tuboleta",
@@ -1485,7 +1588,8 @@
       "preventa": null,
       "artista_norm": "fidelio opera de ludwig van beethoven",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/fin-de-ano-con-los-corraleros-de-majagual": {
       "fuente": "tuboleta",
@@ -1499,7 +1603,8 @@
       "preventa": null,
       "artista_norm": "fin de ano con los corraleros de majagual",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/fonseca-antes-que-el-tiempo-se-vaya-tour-medellin": {
       "fuente": "tuboleta",
@@ -1513,7 +1618,8 @@
       "preventa": null,
       "artista_norm": "fonseca",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/gala-de-zarzuela": {
       "fuente": "tuboleta",
@@ -1527,7 +1633,8 @@
       "preventa": null,
       "artista_norm": "gala de zarzuela",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/geneva-camerata": {
       "fuente": "tuboleta",
@@ -1541,7 +1648,8 @@
       "preventa": null,
       "artista_norm": "geneva camerata",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/geneva-camerata-suiza-dance-sun": {
       "fuente": "tuboleta",
@@ -1555,7 +1663,8 @@
       "preventa": null,
       "artista_norm": "geneva camerata suiza dance of the sun",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/genova-dimitrov-alemania-duo-de-pianos": {
       "fuente": "tuboleta",
@@ -1569,7 +1678,8 @@
       "preventa": null,
       "artista_norm": "genova y dimitrov alemania duo de pianos",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/gran-cierre-carmina-burana": {
       "fuente": "tuboleta",
@@ -1583,7 +1693,8 @@
       "preventa": null,
       "artista_norm": "gran cierre carmina burana",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/gran-gala-de-zarzuela-2026-0": {
       "fuente": "tuboleta",
@@ -1597,7 +1708,8 @@
       "preventa": null,
       "artista_norm": "gran gala de zarzuela 2026",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/grupo-bahia": {
       "fuente": "tuboleta",
@@ -1611,7 +1723,8 @@
       "preventa": null,
       "artista_norm": "grupo bahia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/guaro-guaro-guaro-una-noche-con-el-andariego": {
       "fuente": "tuboleta",
@@ -1625,7 +1738,8 @@
       "preventa": null,
       "artista_norm": "guaro guaro guaro",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/gurzenich-orchester-colonia": {
       "fuente": "tuboleta",
@@ -1639,7 +1753,8 @@
       "preventa": null,
       "artista_norm": "gurzenich orchester colonia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/hamilton-afrorockstar-el-pelaito-de-ctg": {
       "fuente": "tuboleta",
@@ -1653,7 +1768,8 @@
       "preventa": null,
       "artista_norm": "hamilton afrorockstar",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/hansjorg-albrecht-alemania-organo": {
       "fuente": "tuboleta",
@@ -1667,7 +1783,8 @@
       "preventa": null,
       "artista_norm": "hansjorg albrecht alemania organo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/hayley-williams-show-live-latin-america": {
       "fuente": "tuboleta",
@@ -1681,7 +1798,8 @@
       "preventa": null,
       "artista_norm": "the hayley williams show",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/hebert-vargas-exito-tras-exito-medellin": {
       "fuente": "tuboleta",
@@ -1695,7 +1813,8 @@
       "preventa": null,
       "artista_norm": "hebert vargas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/inocencia-e-intuicion-0": {
       "fuente": "tuboleta",
@@ -1709,7 +1828,8 @@
       "preventa": null,
       "artista_norm": "inocencia e intuicion",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/isabel-dobarro": {
       "fuente": "tuboleta",
@@ -1723,7 +1843,8 @@
       "preventa": null,
       "artista_norm": "isabel dobarro",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/isaiah-thompson-cuarteto-estados-unidos-piano-jazz": {
       "fuente": "tuboleta",
@@ -1737,7 +1858,8 @@
       "preventa": null,
       "artista_norm": "isaiah thompson cuarteto estados unidos piano jazz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/jacob-hernandez-colombia-violonchelo": {
       "fuente": "tuboleta",
@@ -1751,7 +1873,8 @@
       "preventa": null,
       "artista_norm": "jacob hernandez colombia violonchelo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/jay-wheeler-la-voz-favorita-world-tour": {
       "fuente": "tuboleta",
@@ -1765,7 +1888,8 @@
       "preventa": null,
       "artista_norm": "jay wheeler",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/jeremy-joseph-sudafrica-organo": {
       "fuente": "tuboleta",
@@ -1779,7 +1903,8 @@
       "preventa": null,
       "artista_norm": "jeremy joseph sudafrica organo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/jhon-onofre-en-concierto-0": {
       "fuente": "tuboleta",
@@ -1793,7 +1918,8 @@
       "preventa": null,
       "artista_norm": "jhon onofre en concierto",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/jhonny-rivera-campesino-mucho-honor": {
       "fuente": "tuboleta",
@@ -1807,7 +1933,8 @@
       "preventa": null,
       "artista_norm": "jhonny rivera",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/jordi-savall": {
       "fuente": "tuboleta",
@@ -1821,7 +1948,8 @@
       "preventa": null,
       "artista_norm": "jordi savall",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/jorge-glem-sam-reider-venezuelaestados-unidos": {
       "fuente": "tuboleta",
@@ -1835,7 +1963,8 @@
       "preventa": null,
       "artista_norm": "jorge glem y sam reider venezuela estados unidos",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/juan-fernando-avendano-y-juan-carlos-de-la-pava-colombia": {
       "fuente": "tuboleta",
@@ -1849,7 +1978,8 @@
       "preventa": null,
       "artista_norm": "juan fernando avendano y juan carlos de la pava colombia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/juan-manuel-echeverri-colombia-piano-jazz": {
       "fuente": "tuboleta",
@@ -1863,7 +1993,8 @@
       "preventa": null,
       "artista_norm": "juan manuel echeverri colombia piano jazz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/juan-torres-colombia-violin": {
       "fuente": "tuboleta",
@@ -1877,7 +2008,8 @@
       "preventa": null,
       "artista_norm": "juan torres colombia violin",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/juanes-world-tour-2026": {
       "fuente": "tuboleta",
@@ -1915,7 +2047,8 @@
       "preventa": null,
       "artista_norm": "jungle",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/juntos-de-nuevo-mision-campin": {
       "fuente": "tuboleta",
@@ -1929,7 +2062,8 @@
       "preventa": null,
       "artista_norm": "juntos de nuevo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/kaseo-camisa-de-fuerza-latam-2027": {
       "fuente": "tuboleta",
@@ -1943,7 +2077,8 @@
       "preventa": null,
       "artista_norm": "kase o",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/katseye-tribute-experience-latam-tour-bogota": {
       "fuente": "tuboleta",
@@ -1957,7 +2092,8 @@
       "preventa": null,
       "artista_norm": "katseye the tribute experience latam tour",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/katseye-tribute-experience-latam-tour-medellin": {
       "fuente": "tuboleta",
@@ -1971,7 +2107,8 @@
       "preventa": null,
       "artista_norm": "katseye the tribute experience latam tour",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/kraken-sinfonico-medellin": {
       "fuente": "tuboleta",
@@ -1985,7 +2122,8 @@
       "preventa": null,
       "artista_norm": "kraken sinfonico",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/kris-r-el-trap-de-kolombia-medellin": {
       "fuente": "tuboleta",
@@ -1999,7 +2137,8 @@
       "preventa": null,
       "artista_norm": "kris r",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-arquitectura-de-la-voz-italiana-0": {
       "fuente": "tuboleta",
@@ -2013,7 +2152,8 @@
       "preventa": null,
       "artista_norm": "la arquitectura de la voz italiana",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-arquitectura-del-corazon-0": {
       "fuente": "tuboleta",
@@ -2027,7 +2167,8 @@
       "preventa": null,
       "artista_norm": "la arquitectura del corazon",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-catedral-del-sonido-0": {
       "fuente": "tuboleta",
@@ -2041,7 +2182,8 @@
       "preventa": null,
       "artista_norm": "la catedral del sonido",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-chiva-gantiva-vuelve-la-mugre-colombia-viaje-inmersivo": {
       "fuente": "tuboleta",
@@ -2055,7 +2197,8 @@
       "preventa": null,
       "artista_norm": "la chiva gantiva vuelve la mugre colombia viaje inmersivo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-consagracion-de-la-primavera-de-igor-stravinski": {
       "fuente": "tuboleta",
@@ -2069,7 +2212,8 @@
       "preventa": null,
       "artista_norm": "la consagracion de la primavera de igor stravinski",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-fiesta-del-arkeologo": {
       "fuente": "tuboleta",
@@ -2083,7 +2227,8 @@
       "preventa": null,
       "artista_norm": "la fiesta del arkeologo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-forma-como-templo-0": {
       "fuente": "tuboleta",
@@ -2097,7 +2242,8 @@
       "preventa": null,
       "artista_norm": "la forma como templo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-forma-habitada-0": {
       "fuente": "tuboleta",
@@ -2111,7 +2257,8 @@
       "preventa": null,
       "artista_norm": "la forma habitada",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-geometria-del-laberinto-0": {
       "fuente": "tuboleta",
@@ -2125,7 +2272,8 @@
       "preventa": null,
       "artista_norm": "la geometria del laberinto",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-intuicion-del-siglo-xx-0": {
       "fuente": "tuboleta",
@@ -2139,7 +2287,8 @@
       "preventa": null,
       "artista_norm": "la intuicion del siglo xx",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-musica-de-star-wars-50-aniversario-bogota": {
       "fuente": "tuboleta",
@@ -2153,7 +2302,8 @@
       "preventa": null,
       "artista_norm": "la musica de star wars 50 aniversario",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-navidad-en-el-mundo-el-musical": {
       "fuente": "tuboleta",
@@ -2167,7 +2317,8 @@
       "preventa": null,
       "artista_norm": "la navidad en el mundo el musical",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-noche-de-willie-colon-0": {
       "fuente": "tuboleta",
@@ -2181,7 +2332,8 @@
       "preventa": null,
       "artista_norm": "la noche de willie colon",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-oreja-de-van-gogh-tantas-cosas-que-contar-tour-2027": {
       "fuente": "tuboleta",
@@ -2195,7 +2347,8 @@
       "preventa": null,
       "artista_norm": "la oreja de van gogh",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-pasion-segun-san-marcos-de-osvaldo-golijov": {
       "fuente": "tuboleta",
@@ -2209,7 +2362,8 @@
       "preventa": null,
       "artista_norm": "la pasion segun san marcos de osvaldo golijov",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-proporcion-oculta-0": {
       "fuente": "tuboleta",
@@ -2223,7 +2377,8 @@
       "preventa": null,
       "artista_norm": "la proporcion oculta",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-seccion-aurea-la-proporcion-divina-0": {
       "fuente": "tuboleta",
@@ -2237,7 +2392,8 @@
       "preventa": null,
       "artista_norm": "la seccion aurea la proporcion divina",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-sintesis-0": {
       "fuente": "tuboleta",
@@ -2251,7 +2407,8 @@
       "preventa": null,
       "artista_norm": "la sintesis",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-ultima": {
       "fuente": "tuboleta",
@@ -2265,7 +2422,8 @@
       "preventa": null,
       "artista_norm": "la ultima del ano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-vida-es-una-fiesta-vdevinilo": {
       "fuente": "tuboleta",
@@ -2279,7 +2437,8 @@
       "preventa": null,
       "artista_norm": "la vida es una fiesta by vdevinilo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-voz-humana": {
       "fuente": "tuboleta",
@@ -2293,7 +2452,8 @@
       "preventa": null,
       "artista_norm": "la voz humana",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-voz-sobre-el-abismo-0": {
       "fuente": "tuboleta",
@@ -2307,7 +2467,8 @@
       "preventa": null,
       "artista_norm": "la voz sobre el abismo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/lanzamiento-del-60deg-festival-de-la-leyenda-vallenata": {
       "fuente": "tuboleta",
@@ -2321,7 +2482,8 @@
       "preventa": null,
       "artista_norm": "lanzamiento del 60 festival de la leyenda vallenata",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/las-estrellas-de-buena-vista": {
       "fuente": "tuboleta",
@@ -2335,7 +2497,8 @@
       "preventa": null,
       "artista_norm": "las estrellas de buena vista",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/las-mijas": {
       "fuente": "tuboleta",
@@ -2349,7 +2512,8 @@
       "preventa": null,
       "artista_norm": "las mijas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/laura-pausini-yo-canto-world-tour-2027-medellin": {
       "fuente": "tuboleta",
@@ -2363,7 +2527,8 @@
       "preventa": null,
       "artista_norm": "laura pausini",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/les-talens-lyriques-francia-ensamble-de-musica-barroca": {
       "fuente": "tuboleta",
@@ -2377,7 +2542,8 @@
       "preventa": null,
       "artista_norm": "les talens lyriques francia ensamble de musica barroca",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/litineraire-shape-sound-come": {
       "fuente": "tuboleta",
@@ -2391,7 +2557,8 @@
       "preventa": null,
       "artista_norm": "l itineraire the shape of sound to come",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/lolabum-y-thaissa": {
       "fuente": "tuboleta",
@@ -2405,7 +2572,8 @@
       "preventa": null,
       "artista_norm": "thaissa y lolabum",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/los-melodicos-concierto-navideno": {
       "fuente": "tuboleta",
@@ -2419,7 +2587,8 @@
       "preventa": null,
       "artista_norm": "los melodicos concierto navideno",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/los-planos-invisibles-0": {
       "fuente": "tuboleta",
@@ -2433,7 +2602,8 @@
       "preventa": null,
       "artista_norm": "los planos invisibles",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/los-tigres-del-norte-los-tigres-del-mundo-2026-0": {
       "fuente": "tuboleta",
@@ -2447,7 +2617,8 @@
       "preventa": null,
       "artista_norm": "los tigres del norte",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ludsen-martinus-colombia-compositor": {
       "fuente": "tuboleta",
@@ -2461,7 +2632,8 @@
       "preventa": null,
       "artista_norm": "ludsen martinus colombia compositor",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/luis-enrique": {
       "fuente": "tuboleta",
@@ -2475,7 +2647,8 @@
       "preventa": null,
       "artista_norm": "luis enrique",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/luna-rodriguez-colombia-clarinete": {
       "fuente": "tuboleta",
@@ -2489,7 +2662,8 @@
       "preventa": null,
       "artista_norm": "luna rodriguez colombia clarinete",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/maluma-loco-x-volver": {
       "fuente": "tuboleta",
@@ -2503,7 +2677,8 @@
       "preventa": null,
       "artista_norm": "maluma",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/manuel-jose": {
       "fuente": "tuboleta",
@@ -2517,7 +2692,8 @@
       "preventa": null,
       "artista_norm": "manuel jose",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/mapi-pataquiva-colombia-soprano": {
       "fuente": "tuboleta",
@@ -2531,7 +2707,8 @@
       "preventa": null,
       "artista_norm": "mapi pataquiva colombia soprano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/marco-antonio-solis-gratitud-tour-2026-bucaramanga": {
       "fuente": "tuboleta",
@@ -2545,7 +2722,8 @@
       "preventa": null,
       "artista_norm": "marco antonio solis",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/marco-antonio-solis-gratitud-tour-2026-medellin": {
       "fuente": "tuboleta",
@@ -2559,7 +2737,8 @@
       "preventa": null,
       "artista_norm": "marco antonio solis",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/mariana-clavijo-y-juan-carlos-de-la-pava-colombia": {
       "fuente": "tuboleta",
@@ -2573,7 +2752,8 @@
       "preventa": null,
       "artista_norm": "mariana clavijo y juan carlos de la pava colombia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/martin-garrix-americas-tour-bogota": {
       "fuente": "tuboleta",
@@ -2587,7 +2767,8 @@
       "preventa": null,
       "artista_norm": "martin garrix",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/martin-garrix-americas-tour-medellin": {
       "fuente": "tuboleta",
@@ -2601,7 +2782,8 @@
       "preventa": null,
       "artista_norm": "martin garrix",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/matthew-garvin-diaz-colombia-piano": {
       "fuente": "tuboleta",
@@ -2615,7 +2797,8 @@
       "preventa": null,
       "artista_norm": "matthew garvin diaz colombia piano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/medicina-musical-de-precision-el-arte-y-la-ciencia-de-sanar-traves-del-sonido-una": {
       "fuente": "tuboleta",
@@ -2629,7 +2812,8 @@
       "preventa": null,
       "artista_norm": "medicina musical de precision el arte y la ciencia de sanar a traves del sonido",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/melendi-pop-rock-tour-medellin": {
       "fuente": "tuboleta",
@@ -2643,7 +2827,8 @@
       "preventa": null,
       "artista_norm": "melendi",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/metal-millennium-ciclo-de-metal-nacional": {
       "fuente": "tuboleta",
@@ -2657,7 +2842,8 @@
       "preventa": null,
       "artista_norm": "metal millennium ciclo de metal nacional",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/micelio-colombia-jazz": {
       "fuente": "tuboleta",
@@ -2671,7 +2857,8 @@
       "preventa": null,
       "artista_norm": "micelio colombia jazz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/michael-vs-queen-experience-la-batalla-final": {
       "fuente": "tuboleta",
@@ -2685,7 +2872,8 @@
       "preventa": null,
       "artista_norm": "michael vs queen experience la batalla final",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/nathan-amaral-y-jonathan-ware-brasilestados-unidos": {
       "fuente": "tuboleta",
@@ -2699,7 +2887,8 @@
       "preventa": null,
       "artista_norm": "nathan amaral y jonathan ware brasil estados unidos",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/navidad-cantoalegre-un-pais-de-estrellas": {
       "fuente": "tuboleta",
@@ -2713,7 +2902,8 @@
       "preventa": null,
       "artista_norm": "navidad cantoalegre un pais de estrellas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/navidad-filarmonica": {
       "fuente": "tuboleta",
@@ -2727,7 +2917,8 @@
       "preventa": null,
       "artista_norm": "navidad filarmonica",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/navidad-sinfonica-filmo": {
       "fuente": "tuboleta",
@@ -2741,7 +2932,8 @@
       "preventa": null,
       "artista_norm": "navidad sinfonica filmo",
       "municipio": "Chía",
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/neverland-tributo-michael-jackson": {
       "fuente": "tuboleta",
@@ -2755,7 +2947,8 @@
       "preventa": null,
       "artista_norm": "neverland tributo a michael jackson",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/new-order": {
       "fuente": "tuboleta",
@@ -2769,7 +2962,8 @@
       "preventa": null,
       "artista_norm": "new order",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/niche-sinfonico-tour-2027-bogota": {
       "fuente": "tuboleta",
@@ -2783,7 +2977,8 @@
       "preventa": null,
       "artista_norm": "niche sinfonico",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/niche-sinfonico-tour-2027-medellin": {
       "fuente": "tuboleta",
@@ -2797,7 +2992,8 @@
       "preventa": null,
       "artista_norm": "niche sinfonico",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/noel-wan-estados-unidostaiwan-arpa": {
       "fuente": "tuboleta",
@@ -2811,7 +3007,8 @@
       "preventa": null,
       "artista_norm": "noel wan estados unidos taiwan arpa",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ocaso-brass-ensamble-colombia-quinteto-de-metales": {
       "fuente": "tuboleta",
@@ -2825,7 +3022,8 @@
       "preventa": null,
       "artista_norm": "ocaso brass ensamble colombia quinteto de metales",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/octava-sinfonia-de-gustav-mahler": {
       "fuente": "tuboleta",
@@ -2839,7 +3037,8 @@
       "preventa": null,
       "artista_norm": "octava sinfonia de gustav mahler",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/octavie-dostaler-lalonde-canada-violonchelo-y-pianoforte": {
       "fuente": "tuboleta",
@@ -2853,7 +3052,8 @@
       "preventa": null,
       "artista_norm": "octavie dostaler lalonde canada violonchelo y pianoforte",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/orquesta-filarmonica-de-bogota-8": {
       "fuente": "tuboleta",
@@ -2867,7 +3067,8 @@
       "preventa": null,
       "artista_norm": "orquesta filarmonica de bogota",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/orquesta-filarmonica-de-bogota-billos-caracas-boys": {
       "fuente": "tuboleta",
@@ -2881,7 +3082,8 @@
       "preventa": null,
       "artista_norm": "orquesta filarmonica de bogota y billo s caracas boys",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/orquesta-sinfonica-nacional-de-colombia-piano-gile-bae": {
       "fuente": "tuboleta",
@@ -2895,7 +3097,8 @@
       "preventa": null,
       "artista_norm": "orquesta sinfonica nacional de colombia piano gile bae",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/oswaldo-narvaez-colombia-percusion": {
       "fuente": "tuboleta",
@@ -2909,7 +3112,8 @@
       "preventa": null,
       "artista_norm": "oswaldo narvaez colombia percusion",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/pablo-sainz-villegas-0": {
       "fuente": "tuboleta",
@@ -2923,7 +3127,8 @@
       "preventa": null,
       "artista_norm": "pablo sainz villegas",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/pedro-capo-fulanito-tour-2027": {
       "fuente": "tuboleta",
@@ -2937,7 +3142,8 @@
       "preventa": null,
       "artista_norm": "pedro capo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/penyair-desde-abajo-tour-bogota": {
       "fuente": "tuboleta",
@@ -2951,7 +3157,8 @@
       "preventa": null,
       "artista_norm": "penyair",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/penyair-desde-abajo-tour-bogota-segunda-fecha": {
       "fuente": "tuboleta",
@@ -2965,7 +3172,8 @@
       "preventa": null,
       "artista_norm": "penyair",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/piso-21-y-juan-duque-un-plancito-en-el-21": {
       "fuente": "tuboleta",
@@ -2979,7 +3187,8 @@
       "preventa": null,
       "artista_norm": "piso 21 y juan duque",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/pitbull-im-back-medellin": {
       "fuente": "tuboleta",
@@ -2993,7 +3202,8 @@
       "preventa": null,
       "artista_norm": "pitbull",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/pixies-south-america-2027": {
       "fuente": "tuboleta",
@@ -3007,7 +3217,8 @@
       "preventa": null,
       "artista_norm": "pixies",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/placebo-2027": {
       "fuente": "tuboleta",
@@ -3021,7 +3232,8 @@
       "preventa": null,
       "artista_norm": "placebo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/planchando-el-despecho-3": {
       "fuente": "tuboleta",
@@ -3035,7 +3247,8 @@
       "preventa": null,
       "artista_norm": "planchando el despecho",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/poets-forest-guadalupemartinica-jazz": {
       "fuente": "tuboleta",
@@ -3049,7 +3262,8 @@
       "preventa": null,
       "artista_norm": "poets of forest guadalupe martinica jazz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ricardo-montaner-el-ultimo-regreso-tour-una-vuelta-mas-para-que-seas-feliz-bogota": {
       "fuente": "tuboleta",
@@ -3063,7 +3277,8 @@
       "preventa": null,
       "artista_norm": "ricardo montaner",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ricardo-montaner-el-ultimo-regreso-tour-una-vuelta-mas-para-que-seas-feliz-medellin": {
       "fuente": "tuboleta",
@@ -3077,7 +3292,8 @@
       "preventa": null,
       "artista_norm": "ricardo montaner",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/rigoletto-opera-de-giuseppe-verdi": {
       "fuente": "tuboleta",
@@ -3091,7 +3307,8 @@
       "preventa": null,
       "artista_norm": "rigoletto opera de giuseppe verdi",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ritvales-2027-true-ravers-combo-2-dias": {
       "fuente": "tuboleta",
@@ -3105,7 +3322,8 @@
       "preventa": null,
       "artista_norm": "ritvales 2027 true ravers combo 2 dias",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ruben-blades-fotografias-tour-medellin": {
       "fuente": "tuboleta",
@@ -3119,7 +3337,8 @@
       "preventa": null,
       "artista_norm": "ruben blades",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/rut-dary-villota-colombia-flauta": {
       "fuente": "tuboleta",
@@ -3133,7 +3352,8 @@
       "preventa": null,
       "artista_norm": "rut dary villota colombia flauta",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/santiago-melo-colombia-flauta": {
       "fuente": "tuboleta",
@@ -3147,7 +3367,8 @@
       "preventa": null,
       "artista_norm": "santiago melo colombia flauta",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/santiago-mugnier-colombia-guitarra": {
       "fuente": "tuboleta",
@@ -3161,7 +3382,8 @@
       "preventa": null,
       "artista_norm": "santiago mugnier colombia guitarra",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/sara-correia-portugal-festival-de-fado-2026": {
       "fuente": "tuboleta",
@@ -3175,7 +3397,8 @@
       "preventa": null,
       "artista_norm": "sara correia portugal festival de fado 2026",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/sergio-andres-gonzalez-colombia-contratenor": {
       "fuente": "tuboleta",
@@ -3189,7 +3412,8 @@
       "preventa": null,
       "artista_norm": "sergio andres gonzalez colombia contratenor",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/siddhartha-tu-y-yo-y-tour-2027": {
       "fuente": "tuboleta",
@@ -3203,7 +3427,8 @@
       "preventa": null,
       "artista_norm": "siddhartha",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/siempre-pop": {
       "fuente": "tuboleta",
@@ -3217,7 +3442,8 @@
       "preventa": null,
       "artista_norm": "siempre pop",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/sinfonia-fantastica-de-hector-berlioz": {
       "fuente": "tuboleta",
@@ -3231,7 +3457,8 @@
       "preventa": null,
       "artista_norm": "sinfonia fantastica de hector berlioz",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/soda-stereo-ecos-2": {
       "fuente": "tuboleta",
@@ -3245,7 +3472,8 @@
       "preventa": null,
       "artista_norm": "soda stereo",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/solazzo-francia-ensamble-de-musica-antigua": {
       "fuente": "tuboleta",
@@ -3259,7 +3487,8 @@
       "preventa": null,
       "artista_norm": "solazzo francia ensamble de musica antigua",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/suites-para-violonchelo-de-johann-sebastian-bach": {
       "fuente": "tuboleta",
@@ -3273,7 +3502,8 @@
       "preventa": null,
       "artista_norm": "suites para violonchelo de johann sebastian bach",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/super-concierto-feria-de-manizales-2027": {
       "fuente": "tuboleta",
@@ -3287,7 +3517,8 @@
       "preventa": null,
       "artista_norm": "la gran noche de la feria 2027",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/swiss-piano-trio-suiza-trio-con-piano": {
       "fuente": "tuboleta",
@@ -3301,7 +3532,8 @@
       "preventa": null,
       "artista_norm": "swiss piano trio suiza trio con piano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/swiss-piano-trio-suiza-trio-con-piano-0": {
       "fuente": "tuboleta",
@@ -3315,7 +3547,8 @@
       "preventa": null,
       "artista_norm": "swiss piano trio suiza trio con piano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/swiss-piano-trio-suiza-trio-con-piano-1": {
       "fuente": "tuboleta",
@@ -3329,7 +3562,8 @@
       "preventa": null,
       "artista_norm": "swiss piano trio suiza trio con piano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/till-lindemann-2027": {
       "fuente": "tuboleta",
@@ -3343,7 +3577,8 @@
       "preventa": null,
       "artista_norm": "till lindemann",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/tributo-metallica-sinfonico": {
       "fuente": "tuboleta",
@@ -3357,7 +3592,8 @@
       "preventa": null,
       "artista_norm": "tributo metallica sinfonico",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/tricky-tour-2026": {
       "fuente": "tuboleta",
@@ -3371,7 +3607,8 @@
       "preventa": null,
       "artista_norm": "tricky",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/tristana": {
       "fuente": "tuboleta",
@@ -3385,7 +3622,8 @@
       "preventa": null,
       "artista_norm": "tristana",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/trueno-bogota-2027-0": {
       "fuente": "tuboleta",
@@ -3399,7 +3637,8 @@
       "preventa": null,
       "artista_norm": "trueno bogota 2027",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/tu-cerebro-con-shakira-silva-y-schubert-musica-creatividad-y-la-neurociencia-de-la-conexion": {
       "fuente": "tuboleta",
@@ -3413,7 +3652,8 @@
       "preventa": null,
       "artista_norm": "tu cerebro con shakira silva y schubert musica creatividad y la neurociencia de la conexion humana",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/tunja-celebra-la-mejor-fiesta-del-ano-2026": {
       "fuente": "tuboleta",
@@ -3427,7 +3667,8 @@
       "preventa": null,
       "artista_norm": "tunja celebra la mejor fiesta del ano 2026",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/una-navidad-de-ensueno-coro-nacional-de-colombia": {
       "fuente": "tuboleta",
@@ -3441,7 +3682,8 @@
       "preventa": null,
       "artista_norm": "una navidad de ensueno coro nacional de colombia",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/una-novena-por-bogota-quinta-edicion": {
       "fuente": "tuboleta",
@@ -3455,7 +3697,8 @@
       "preventa": null,
       "artista_norm": "una novena por bogota",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/vicky-chow-estados-unidos-piano": {
       "fuente": "tuboleta",
@@ -3469,7 +3712,8 @@
       "preventa": null,
       "artista_norm": "vicky chow estados unidos piano",
       "municipio": null,
-      "detectado": "2026-11-21T03:26:54+00:00"
+      "detectado": "2026-11-21T03:26:54+00:00",
+      "linea_base": true
     }
   }
 }

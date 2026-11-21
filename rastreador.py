@@ -37,7 +37,8 @@ from normalizar import normalizar
 ROOT = Path(__file__).resolve().parent
 PAUSA_DETALLE = 1.0  # segundos entre páginas de detalle, para no cargar la boletera
 COLOMBIA = timezone(timedelta(hours=-5), "COT")  # Colombia no tiene horario de verano
-DETALLE = ("fecha", "hora", "artista", "artista_norm", "precio_desde", "preventa", "preventas", "detectado")
+DETALLE = ("fecha", "hora", "artista", "artista_norm", "precio_desde", "preventa", "preventas", "detectado",
+           "linea_base")
 
 log = logging.getLogger("rastreador")
 
@@ -111,7 +112,8 @@ def mensaje_latido(conocidos: dict[str, dict], actuales: list[dict], nuevos: lis
     hace_24h = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat(timespec="seconds")
     ids_nuevos = {evento_id(e) for e in nuevos}
     recientes = sum(1 for eid, e in conocidos.items()
-                    if eid not in ids_nuevos and (e.get("detectado") or "") >= hace_24h) + len(nuevos)
+                    if eid not in ids_nuevos and not e.get("linea_base")
+                    and (e.get("detectado") or "") >= hace_24h) + len(nuevos)
     estado = ("⚠️ Fuentes caídas: " + ", ".join(escape(f) for f in fallas)) if fallas \
         else f"✅ Fuentes funcionando: {', '.join(escape(f) for f in FUENTES)}"
     return (f"🤖 <b>El rastreador sigue activo</b>\n"
@@ -252,6 +254,8 @@ def main() -> int:
             conocidos[eid] = {**e, **{k: v for k, v in conocidos[eid].items() if k in DETALLE and v}}
         else:
             conocidos[eid] = {**e, "detectado": ahora}
+            if primera_vez:  # ya existían antes del bot: no cuentan como nuevos
+                conocidos[eid]["linea_base"] = True
     guardar(archivo, conocidos, fallas, latido)
     return 1 if fallas else 0
 
