@@ -29,7 +29,7 @@ CIUDADES = {
     "chia": "Bogotá", "cota": "Bogotá", "soacha": "Bogotá", "funza": "Bogotá",
     "mosquera": "Bogotá", "cajica": "Bogotá", "la calera": "Bogotá", "tocancipa": "Bogotá",
     "medellin": "Medellín", "sabaneta": "Medellín", "envigado": "Medellín",
-    "itagui": "Medellín", "bello": "Medellín", "rionegro": "Medellín", "la estrella": "Medellín",
+    "itagui": "Medellín", "bello": "Medellín", "el poblado": "Medellín", "rionegro": "Medellín", "la estrella": "Medellín",
     "cali": "Cali", "santiago de cali": "Cali", "jamundi": "Cali", "palmira": "Cali", "yumbo": "Cali",
     "barranquilla": "Barranquilla", "puerto colombia": "Barranquilla", "soledad": "Barranquilla",
     "cartagena": "Cartagena", "cartagena de indias": "Cartagena",

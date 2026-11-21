@@ -185,7 +185,11 @@ def main() -> int:
             errores[nombre] = str(exc)
 
     # 2. Detectar los nuevos y completar su detalle (fecha exacta, preventas)
-    nuevos = [e for e in actuales if evento_id(e) not in conocidos]
+    # Una fuente recién agregada (sin eventos guardados) arranca con su propia línea base,
+    # para no avisar de golpe de todo su catálogo.
+    fuentes_con_base = {e.get("fuente") for e in conocidos.values()}
+    fuentes_nuevas = {e["fuente"] for e in actuales} - fuentes_con_base if not primera_vez else set()
+    nuevos = [e for e in actuales if evento_id(e) not in conocidos and e["fuente"] not in fuentes_nuevas]
     if not primera_vez and not args.sin_detalle:
         for e in nuevos:
             completar = getattr(FUENTES[e["fuente"]], "completar_detalle", None)
@@ -220,6 +224,8 @@ def main() -> int:
         for e in sorted(actuales, key=lambda e: e.get("fecha") or "9999"):
             c = conocidos.get(evento_id(e), {})
             print(formato_consola({**e, **{k: c[k] for k in DETALLE if c.get(k)}}) + "\n")
+    for f in sorted(fuentes_nuevas):
+        print(f"Fuente nueva {f}: {sum(1 for e in actuales if e['fuente'] == f)} eventos guardados como línea base.")
     if primera_vez:
         print(f"Primera ejecución: {len(actuales)} eventos guardados como línea base. "
               "Desde la próxima se avisará solo de los nuevos.")
@@ -254,7 +260,7 @@ def main() -> int:
             conocidos[eid] = {**e, **{k: v for k, v in conocidos[eid].items() if k in DETALLE and v}}
         else:
             conocidos[eid] = {**e, "detectado": ahora}
-            if primera_vez:  # ya existían antes del bot: no cuentan como nuevos
+            if primera_vez or e["fuente"] in fuentes_nuevas:  # ya existían antes: no cuentan como nuevos
                 conocidos[eid]["linea_base"] = True
     guardar(archivo, conocidos, fallas, latido)
     return 1 if fallas else 0

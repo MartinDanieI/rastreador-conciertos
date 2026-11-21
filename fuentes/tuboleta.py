@@ -25,56 +25,29 @@ from datetime import date
 import requests
 from bs4 import BeautifulSoup
 
+from .comun import HEADERS, MESES, TIMEOUT, FuenteError, artista_de_titulo, fecha_sin_anio
+from .comun import hora24 as _hora24
+from .comun import texto as _texto
+
 log = logging.getLogger(__name__)
 
 FUENTE = "tuboleta"
 BASE = "https://www.tuboleta.com"
 URL_CONCIERTOS = f"{BASE}/es/categorias/conciertos"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/130.0 Safari/537.36 rastreador-conciertos",
-    "Accept-Language": "es-CO,es;q=0.9",
-}
-TIMEOUT = 30
-
-MESES = {"ene": 1, "feb": 2, "mar": 3, "abr": 4, "may": 5, "jun": 6,
-         "jul": 7, "ago": 8, "sep": 9, "set": 9, "oct": 10, "nov": 11, "dic": 12}
-
-
-class FuenteError(RuntimeError):
-    """La fuente no respondió o cambió su diseño."""
-
-
-def _texto(el) -> str:
-    return " ".join(el.get_text(" ", strip=True).split()) if el else ""
 
 
 def _artista(titulo: str, ciudad: str) -> str:
-    """'BEÉLE | BORONDO TOUR 2026 - MEDELLÍN' -> 'BEÉLE'.
-
-    Sin '|' el título suele ser el artista, a veces con ' - CIUDAD' al final.
-    Es una aproximación: el detalle (JSON-LD performer) la corrige cuando existe.
-    """
-    if "|" in titulo:
-        return titulo.split("|", 1)[0].strip()
-    if ciudad and titulo.lower().endswith(f" - {ciudad.lower()}"):
-        return titulo[: -len(ciudad) - 3].strip()
-    return titulo.strip()
+    """'BEÉLE | BORONDO TOUR 2026 - MEDELLÍN' -> 'BEÉLE'."""
+    return artista_de_titulo(titulo, ciudad, ("|",))
 
 
 def _fecha_corta(texto: str, hoy: date) -> str | None:
-    """'28 Nov' -> '2026-11-28'. Sin año: si ya pasó hace más de 2 meses, es el año siguiente."""
+    """'28 Nov' -> '2026-11-28' (el año se deduce)."""
     m = re.match(r"(\d{1,2})\s+([A-Za-zé]{3})", texto)
     if not m or m.group(2).lower()[:3] not in MESES:
         return None
-    dia, mes = int(m.group(1)), MESES[m.group(2).lower()[:3]]
-    try:
-        f = date(hoy.year, mes, dia)
-        if (hoy - f).days > 60:
-            f = date(hoy.year + 1, mes, dia)
-    except ValueError:
-        return None
-    return f.isoformat()
+    f = fecha_sin_anio(int(m.group(1)), MESES[m.group(2).lower()[:3]], hoy)
+    return f.isoformat() if f else None
 
 
 def obtener_eventos(session: requests.Session | None = None, hoy: date | None = None) -> list[dict]:
@@ -124,11 +97,6 @@ RE_PREVENTA = re.compile(
     rf"\b(Pre-?venta[^:.]{{0,80}}?):?\s*{_DIA}\s+(\d{{1,2}})\s+de\s+([a-záéíóú]+),?\s*(?:a\s+las\s*)?{_HORA}",
     re.IGNORECASE)
 RE_HORA = re.compile(rf"\bHora:\s*{_HORA}", re.IGNORECASE)
-
-
-def _hora24(h: str, m: str, ampm: str) -> str:
-    h24 = int(h) % 12 + (12 if ampm.lower() == "p" else 0)
-    return f"{h24:02d}:{m}"
 
 
 def _preventas(texto: str, fecha_evento: str | None) -> list[dict]:

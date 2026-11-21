@@ -1,5 +1,7 @@
 # Rastreador de conciertos en Colombia
 
+Fuentes: **Tuboleta** y **Ticketmaster Colombia** (por qué estas: [FUENTES.md](FUENTES.md)).
+
 Bot que revisa las boleteras cada 30 minutos y avisa por Telegram cuando aparece un
 concierto nuevo (Fase 1 del plan de la app).
 
