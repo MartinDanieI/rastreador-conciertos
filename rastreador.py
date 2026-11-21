@@ -106,6 +106,19 @@ def formato_telegram(e: dict) -> str:
 HORA_LATIDO = int(os.getenv("HEARTBEAT_HOUR", "8"))  # hora de Colombia del mensaje diario
 
 
+def fuentes_activas() -> dict:
+    """Fuentes a revisar: FUENTES_ACTIVAS="tuboleta,ticketmaster" (vacío = todas).
+
+    Ticketmaster bloquea (403) las IPs de servidores como GitHub Actions, así que
+    allá solo se usa Tuboleta. Ver FUENTES.md.
+    """
+    pedidas = [f.strip() for f in os.getenv("FUENTES_ACTIVAS", "").split(",") if f.strip()]
+    desconocidas = set(pedidas) - FUENTES.keys()
+    if desconocidas:
+        log.warning("FUENTES_ACTIVAS tiene fuentes que no existen: %s", ", ".join(sorted(desconocidas)))
+    return {n: m for n, m in FUENTES.items() if not pedidas or n in pedidas}
+
+
 def mensaje_latido(conocidos: dict[str, dict], actuales: list[dict], nuevos: list[dict],
                    fallas: dict[str, str]) -> str:
     """'Sigo activo' con el resumen de las últimas 24 horas."""
@@ -115,7 +128,7 @@ def mensaje_latido(conocidos: dict[str, dict], actuales: list[dict], nuevos: lis
                     if eid not in ids_nuevos and not e.get("linea_base")
                     and (e.get("detectado") or "") >= hace_24h) + len(nuevos)
     estado = ("⚠️ Fuentes caídas: " + ", ".join(escape(f) for f in fallas)) if fallas \
-        else f"✅ Fuentes funcionando: {', '.join(escape(f) for f in FUENTES)}"
+        else f"✅ Fuentes funcionando: {', '.join(escape(f) for f in fuentes_activas())}"
     return (f"🤖 <b>El rastreador sigue activo</b>\n"
             f"📋 {len(actuales)} conciertos en las boleteras\n"
             f"🆕 {recientes} nuevo(s) en las últimas 24 horas\n"
@@ -174,7 +187,8 @@ def main() -> int:
     actuales: list[dict] = []
     fallas: dict[str, str] = {}
     errores: dict[str, str] = {}
-    for nombre, modulo in FUENTES.items():
+    activas = fuentes_activas()
+    for nombre, modulo in activas.items():
         try:
             evs = modulo.obtener_eventos(session)
             log.info("%s: %d eventos", nombre, len(evs))
@@ -208,8 +222,10 @@ def main() -> int:
     for nombre in fallas.keys() - fallas_previas.keys():
         bloques.append(f"⚠️ La fuente <b>{escape(nombre)}</b> dejó de responder:\n{escape(errores[nombre][:300])}")
     for nombre in fallas_previas.keys() - fallas.keys():
-        if nombre in FUENTES:
+        if nombre in activas:
             bloques.append(f"✅ La fuente <b>{escape(nombre)}</b> volvió a funcionar.")
+        else:
+            log.info("La fuente %s quedó desactivada (FUENTES_ACTIVAS); se borra su falla.", nombre)
 
     # Latido diario ("sigo activo") en la primera revisión desde las 8 a. m. de Colombia.
     # Si un día no llega, el bot se cayó.

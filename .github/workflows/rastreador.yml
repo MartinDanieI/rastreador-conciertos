@@ -2,8 +2,9 @@ name: Rastreador de conciertos
 
 on:
   schedule:
-    # Cada 30 minutos. Minutos "raros" (13 y 43): en la hora en punto GitHub se
-    # retrasa o se salta ejecuciones.
+    # Disparo principal: cron-job.org llama cada 30 minutos a la API (workflow_dispatch),
+    # que es puntual. Esto es solo un RESPALDO: el horario propio de GitHub se salta
+    # muchas ejecuciones (la primera noche corrió 1 vez en 8 horas).
     - cron: "13,43 * * * *"
   workflow_dispatch:
     inputs:
@@ -29,6 +30,9 @@ jobs:
       DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
       # Hora (Colombia) del mensaje diario "sigo activo". Se cambia en Settings > Variables.
       HEARTBEAT_HOUR: ${{ vars.HEARTBEAT_HOUR || '8' }}
+      # Ticketmaster responde 403 a las IPs de GitHub (su firewall bloquea servidores),
+      # así que aquí solo se revisa Tuboleta. Ver FUENTES.md.
+      FUENTES_ACTIVAS: ${{ vars.FUENTES_ACTIVAS || 'tuboleta' }}
       TZ: America/Bogota
 
     steps:

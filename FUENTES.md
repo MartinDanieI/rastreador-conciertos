@@ -28,6 +28,17 @@ la cartelera, el detalle de un evento y su `robots.txt`.
 | Bandsintown API | Sí, pero por artista (hay que preguntar uno por uno) | Solo para artistas o equipos que actúan en su nombre, con permiso escrito | ❌ No disponible para una app como esta |
 | Songkick | — | No da llaves nuevas | ❌ |
 
+## Actualización 2026-11-21: Ticketmaster bloquea a GitHub
+
+Desde el PC de la casa Ticketmaster responde bien, pero desde GitHub Actions
+devuelve **403 Forbidden**: su firewall (AWS WAF) bloquea las IPs de servidores.
+No se intenta saltar ese bloqueo. Por eso en GitHub `FUENTES_ACTIVAS=tuboleta`.
+Un VPS tendría el mismo problema (también son IPs de servidor). Opciones para
+recuperar Ticketmaster:
+
+1. Pedir acceso oficial a Ticketmaster Colombia (API o feed para socios).
+2. Correr esa fuente desde un computador de casa (IP residencial) cuando esté prendido.
+
 ## Elegidas
 
 1. **Tuboleta**
