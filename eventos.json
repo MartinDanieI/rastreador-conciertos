@@ -2536,6 +2536,20 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/lasso-una-mas-y-nos-vamos": {
+      "fuente": "tuboleta",
+      "artista": "LASSO",
+      "evento": "LASSO | UNA MÁS Y NOS VAMOS",
+      "fecha": "2027-04-01",
+      "hora": "20:30",
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Jorge Eliécer Gaitán",
+      "link": "https://www.tuboleta.com/es/eventos/lasso-una-mas-y-nos-vamos",
+      "preventa": null,
+      "artista_norm": "lasso",
+      "municipio": null,
+      "detectado": "2026-11-23T18:00:23+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/laura-pausini-yo-canto-world-tour-2027-medellin": {
       "fuente": "tuboleta",
       "artista": "LAURA PAUSINI",
