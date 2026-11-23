@@ -312,6 +312,8 @@
       "lugar": "DAVIarena",
       "link": "https://www.tuboleta.com/es/eventos/alejandro-sanz-y-ahora-que-medellin",
       "preventa": "2026-11-23T12:00",
+      "artista_norm": "alejandro sanz",
+      "municipio": null,
       "precio_desde": 102200,
       "preventas": [
         {
@@ -319,8 +321,6 @@
           "inicio": "2026-11-23T12:00"
         }
       ],
-      "artista_norm": "alejandro sanz",
-      "municipio": null,
       "detectado": "2026-11-23T15:00:17+00:00"
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/andres-cepeda-latitudes-gira-2027": {
