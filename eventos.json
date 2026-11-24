@@ -2001,6 +2001,20 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/juan-carlos-coronel-sinfonico": {
+      "fuente": "tuboleta",
+      "artista": "Juan Carlos Coronel Sinfónico",
+      "evento": "Juan Carlos Coronel Sinfónico",
+      "fecha": "2026-12-03",
+      "hora": "19:30",
+      "ciudad": "Bogotá",
+      "lugar": "Centro Nacional de las artes - Sala Teatro",
+      "link": "https://www.tuboleta.com/es/eventos/juan-carlos-coronel-sinfonico",
+      "preventa": null,
+      "artista_norm": "juan carlos coronel sinfonico",
+      "municipio": null,
+      "detectado": "2026-11-24T15:00:20+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/juan-fernando-avendano-y-juan-carlos-de-la-pava-colombia": {
       "fuente": "tuboleta",
       "artista": "Juan Fernando Avendaño y Juan Carlos de la Pava (Colombia)",
@@ -2668,6 +2682,26 @@
       "municipio": null,
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
+    },
+    "tuboleta:https://www.tuboleta.com/es/eventos/lp-all-not-lost-2027": {
+      "fuente": "tuboleta",
+      "artista": "LP",
+      "evento": "LP | ALL IS NOT LOST 2027",
+      "fecha": "2027-03-07",
+      "hora": "19:00",
+      "ciudad": "Medellín",
+      "lugar": "Teatro Metropolitano de Medellín",
+      "link": "https://www.tuboleta.com/es/eventos/lp-all-not-lost-2027",
+      "preventa": "2026-11-25T10:00",
+      "preventas": [
+        {
+          "nombre": "Preventa Artista",
+          "inicio": "2026-11-25T10:00"
+        }
+      ],
+      "artista_norm": "lp",
+      "municipio": null,
+      "detectado": "2026-11-24T15:00:20+00:00"
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ludsen-martinus-colombia-compositor": {
       "fuente": "tuboleta",
