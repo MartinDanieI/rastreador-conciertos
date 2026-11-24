@@ -517,6 +517,26 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/back-reggaeton-2000s": {
+      "fuente": "tuboleta",
+      "artista": "BACK TO REGGAETON 2000'S",
+      "evento": "BACK TO REGGAETON 2000'S",
+      "fecha": "2027-08-28",
+      "hora": "18:00",
+      "ciudad": "Bogotá",
+      "lugar": "El Corazón de Bogotá - Arena",
+      "link": "https://www.tuboleta.com/es/eventos/back-reggaeton-2000s",
+      "preventa": "2026-12-01T10:00",
+      "preventas": [
+        {
+          "nombre": "Preventa Registrados",
+          "inicio": "2026-12-01T10:00"
+        }
+      ],
+      "artista_norm": "back to reggaeton 2000 s",
+      "municipio": null,
+      "detectado": "2026-11-24T23:00:24+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/ballet-cascanueces-1": {
       "fuente": "tuboleta",
       "artista": "BALLET CASCANUECES",
