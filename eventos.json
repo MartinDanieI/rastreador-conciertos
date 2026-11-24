@@ -2693,14 +2693,14 @@
       "lugar": "Teatro Metropolitano de Medellín",
       "link": "https://www.tuboleta.com/es/eventos/lp-all-not-lost-2027",
       "preventa": "2026-11-25T10:00",
+      "artista_norm": "lp",
+      "municipio": null,
       "preventas": [
         {
           "nombre": "Preventa Artista",
           "inicio": "2026-11-25T10:00"
         }
       ],
-      "artista_norm": "lp",
-      "municipio": null,
       "detectado": "2026-11-24T15:00:20+00:00"
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ludsen-martinus-colombia-compositor": {
