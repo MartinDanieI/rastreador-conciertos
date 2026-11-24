@@ -1,8 +1,6 @@
 {
   "latido": "2026-11-24",
-  "fallas": {
-    "tuboleta": "2026-11-24T21:00:29+00:00"
-  },
+  "fallas": {},
   "eventos": {
     "tuboleta:https://www.tuboleta.com/es/eventos/01-gran-concierto-de-apertura": {
       "fuente": "tuboleta",
