@@ -1,5 +1,5 @@
 {
-  "latido": "2026-11-23",
+  "latido": "2026-11-24",
   "fallas": {},
   "eventos": {
     "tuboleta:https://www.tuboleta.com/es/eventos/01-gran-concierto-de-apertura": {
@@ -322,6 +322,20 @@
         }
       ],
       "detectado": "2026-11-23T15:00:17+00:00"
+    },
+    "tuboleta:https://www.tuboleta.com/es/eventos/all-access-2027": {
+      "fuente": "tuboleta",
+      "artista": "ALL ACCESS 2027",
+      "evento": "ALL ACCESS 2027",
+      "fecha": "2026-11-24",
+      "hora": null,
+      "ciudad": "Bogotá",
+      "lugar": "El Corazón de Bogotá - Arena",
+      "link": "https://www.tuboleta.com/es/eventos/all-access-2027",
+      "preventa": null,
+      "artista_norm": "all access 2027",
+      "municipio": null,
+      "detectado": "2026-11-24T13:00:20+00:00"
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/andres-cepeda-latitudes-gira-2027": {
       "fuente": "tuboleta",
