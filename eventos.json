@@ -527,14 +527,14 @@
       "lugar": "El Corazón de Bogotá - Arena",
       "link": "https://www.tuboleta.com/es/eventos/back-reggaeton-2000s",
       "preventa": "2026-12-01T10:00",
+      "artista_norm": "back to reggaeton 2000 s",
+      "municipio": null,
       "preventas": [
         {
           "nombre": "Preventa Registrados",
           "inicio": "2026-12-01T10:00"
         }
       ],
-      "artista_norm": "back to reggaeton 2000 s",
-      "municipio": null,
       "detectado": "2026-11-24T23:00:24+00:00"
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/ballet-cascanueces-1": {
