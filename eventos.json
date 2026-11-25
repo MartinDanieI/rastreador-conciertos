@@ -1025,6 +1025,20 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/concierto-dia-del-musico-banda-sinfonica": {
+      "fuente": "tuboleta",
+      "artista": "Concierto Día del Músico - Banda Sinfónica",
+      "evento": "Concierto Día del Músico - Banda Sinfónica",
+      "fecha": "2026-11-29",
+      "hora": "10:00",
+      "ciudad": "Bogotá",
+      "lugar": "Auditorio Fabio Lozano",
+      "link": "https://www.tuboleta.com/es/eventos/concierto-dia-del-musico-banda-sinfonica",
+      "preventa": null,
+      "artista_norm": "concierto dia del musico banda sinfonica",
+      "municipio": null,
+      "detectado": "2026-11-25T19:30:16+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/concierto-inaugural-fuego-y-geometria-0": {
       "fuente": "tuboleta",
       "artista": "Concierto inaugural",
