@@ -3062,6 +3062,20 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/movimiento-orginal-aniversario-20": {
+      "fuente": "tuboleta",
+      "artista": "MOVIMIENTO ORIGINAL",
+      "evento": "MOVIMIENTO ORIGINAL | ANIVERSARIO 20 AÑOS",
+      "fecha": "2027-06-11",
+      "hora": "19:00",
+      "ciudad": "Bogotá",
+      "lugar": "El Corazón de Bogotá - Arena",
+      "link": "https://www.tuboleta.com/es/eventos/movimiento-orginal-aniversario-20",
+      "preventa": null,
+      "artista_norm": "movimiento original",
+      "municipio": null,
+      "detectado": "2026-11-26T17:00:16+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/nadie-me-quita-lo-bailao": {
       "fuente": "tuboleta",
       "artista": "NADIE ME QUITA LO BAILAO",
