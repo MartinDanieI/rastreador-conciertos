@@ -905,6 +905,20 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/clasicos-navidenos-2": {
+      "fuente": "tuboleta",
+      "artista": "CLÁSICOS NAVIDEÑOS",
+      "evento": "CLÁSICOS NAVIDEÑOS",
+      "fecha": "2027-12-04",
+      "hora": "20:00",
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Cafam",
+      "link": "https://www.tuboleta.com/es/eventos/clasicos-navidenos-2",
+      "preventa": null,
+      "artista_norm": "clasicos navidenos",
+      "municipio": null,
+      "detectado": "2026-11-26T14:30:14+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/colectivo-el-tiempo-no-sera-mas-colombia": {
       "fuente": "tuboleta",
       "artista": "Colectivo El tiempo no será más (Colombia)",
@@ -1284,6 +1298,20 @@
       "municipio": null,
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
+    },
+    "tuboleta:https://www.tuboleta.com/es/eventos/divas-y-mas-divas-0": {
+      "fuente": "tuboleta",
+      "artista": "DIVAS Y MÁS DIVAS",
+      "evento": "DIVAS Y MÁS DIVAS",
+      "fecha": "2027-05-15",
+      "hora": "20:00",
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Cafam",
+      "link": "https://www.tuboleta.com/es/eventos/divas-y-mas-divas-0",
+      "preventa": null,
+      "artista_norm": "divas y mas divas",
+      "municipio": null,
+      "detectado": "2026-11-26T14:30:14+00:00"
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/dortene-colombia-jazz": {
       "fuente": "tuboleta",
@@ -2064,6 +2092,20 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/juan-gabriel-por-siempre": {
+      "fuente": "tuboleta",
+      "artista": "JUAN GABRIEL POR SIEMPRE",
+      "evento": "JUAN GABRIEL POR SIEMPRE",
+      "fecha": "2027-11-06",
+      "hora": "17:00",
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Cafam",
+      "link": "https://www.tuboleta.com/es/eventos/juan-gabriel-por-siempre",
+      "preventa": null,
+      "artista_norm": "juan gabriel por siempre",
+      "municipio": null,
+      "detectado": "2026-11-26T14:30:14+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/juan-manuel-echeverri-colombia-piano-jazz": {
       "fuente": "tuboleta",
       "artista": "Juan Manuel Echeverri (Colombia), piano jazz",
@@ -2418,6 +2460,20 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/la-noche-del-sol-tributo-luis-miguel": {
+      "fuente": "tuboleta",
+      "artista": "LA NOCHE DEL SOL - TRIBUTO A LUIS MIGUEL",
+      "evento": "LA NOCHE DEL SOL - TRIBUTO A LUIS MIGUEL",
+      "fecha": "2027-03-13",
+      "hora": "17:00",
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Cafam",
+      "link": "https://www.tuboleta.com/es/eventos/la-noche-del-sol-tributo-luis-miguel",
+      "preventa": null,
+      "artista_norm": "la noche del sol tributo a luis miguel",
+      "municipio": null,
+      "detectado": "2026-11-26T14:30:14+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/la-oreja-de-van-gogh-tantas-cosas-que-contar-tour-2027": {
       "fuente": "tuboleta",
       "artista": "LA OREJA DE VAN GOGH",
@@ -2567,6 +2623,20 @@
       "municipio": null,
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
+    },
+    "tuboleta:https://www.tuboleta.com/es/eventos/las-canciones-de-mi-tierra": {
+      "fuente": "tuboleta",
+      "artista": "LAS CANCIONES DE MI TIERRA",
+      "evento": "LAS CANCIONES DE MI TIERRA",
+      "fecha": "2027-06-20",
+      "hora": "11:00",
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Cafam",
+      "link": "https://www.tuboleta.com/es/eventos/las-canciones-de-mi-tierra",
+      "preventa": null,
+      "artista_norm": "las canciones de mi tierra",
+      "municipio": null,
+      "detectado": "2026-11-26T14:30:14+00:00"
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/las-estrellas-de-buena-vista": {
       "fuente": "tuboleta",
@@ -2991,6 +3061,20 @@
       "municipio": null,
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
+    },
+    "tuboleta:https://www.tuboleta.com/es/eventos/nadie-me-quita-lo-bailao": {
+      "fuente": "tuboleta",
+      "artista": "NADIE ME QUITA LO BAILAO",
+      "evento": "NADIE ME QUITA LO BAILAO",
+      "fecha": "2027-04-09",
+      "hora": "20:00",
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Cafam",
+      "link": "https://www.tuboleta.com/es/eventos/nadie-me-quita-lo-bailao",
+      "preventa": null,
+      "artista_norm": "nadie me quita lo bailao",
+      "municipio": null,
+      "detectado": "2026-11-26T14:30:14+00:00"
     },
     "tuboleta:https://www.tuboleta.com/es/eventos/nathan-amaral-y-jonathan-ware-brasilestados-unidos": {
       "fuente": "tuboleta",
@@ -3831,6 +3915,20 @@
       "municipio": null,
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
+    },
+    "tuboleta:https://www.tuboleta.com/es/eventos/vivir-asi-es-morir-de-amor": {
+      "fuente": "tuboleta",
+      "artista": "VIVIR ASÍ ES MORIR DE AMOR",
+      "evento": "VIVIR ASÍ ES MORIR DE AMOR",
+      "fecha": "2027-07-24",
+      "hora": "20:00",
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Cafam",
+      "link": "https://www.tuboleta.com/es/eventos/vivir-asi-es-morir-de-amor",
+      "preventa": null,
+      "artista_norm": "vivir asi es morir de amor",
+      "municipio": null,
+      "detectado": "2026-11-26T14:30:14+00:00"
     }
   }
 }
