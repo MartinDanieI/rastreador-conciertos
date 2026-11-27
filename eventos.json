@@ -3135,6 +3135,20 @@
       "detectado": "2026-11-21T03:26:54+00:00",
       "linea_base": true
     },
+    "tuboleta:https://www.tuboleta.com/es/eventos/navidad-filarmonica-gala-benefica-fundacion-cran-0": {
+      "fuente": "tuboleta",
+      "artista": "Navidad Filarmónica - Gala Benéfica Fundación CRAN",
+      "evento": "Navidad Filarmónica - Gala Benéfica Fundación CRAN",
+      "fecha": "2026-12-17",
+      "hora": null,
+      "ciudad": "Bogotá",
+      "lugar": "Teatro Mayor Julio Mario Santo Domingo",
+      "link": "https://www.tuboleta.com/es/eventos/navidad-filarmonica-gala-benefica-fundacion-cran-0",
+      "preventa": null,
+      "artista_norm": "navidad filarmonica gala benefica fundacion cran",
+      "municipio": null,
+      "detectado": "2026-11-27T13:30:14+00:00"
+    },
     "tuboleta:https://www.tuboleta.com/es/eventos/navidad-sinfonica-filmo": {
       "fuente": "tuboleta",
       "artista": "Navidad Sinfónica FilMO",
